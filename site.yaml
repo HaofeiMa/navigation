@@ -1,0 +1,378 @@
+class1:
+  class_name: 常用
+  link_list:
+    1:
+      name: 腾讯文档
+      link: https://docs.qq.com/
+      img: assets/site/常用网站/腾讯文档.png
+      descr: 多人实时协作的文档编辑平台
+    2:
+      name: TickTick
+      link: https://ticktick.com/
+      img: assets/site/常用网站/TickTick.png
+      descr: 任务管理和提醒工具
+    3:
+      name: ChatGPT
+      link: https://chat.openai.com/
+      img: assets/site/常用网站/ChatGPT.png
+      descr: OpenAI开发的多功能语言模型
+
+class2:
+  class_name: 文献检索·英文
+  link_list:
+    1:
+      name: Web of Science
+      link: https://www.webofscience.com/wos/alldb/basic-search
+      img: assets/site/文献检索/英文/WebofScience.png
+      descr: 学术文献检索与引用分析平台
+    2:
+      name: Engineering Village
+      link: https://www.engineeringvillage.com/search/quick.url
+      img: assets/site/文献检索/英文/EngineeringVillage.png
+      descr: 工程科技领域综合检索和分析工具
+    3:
+      name: arXiv
+      link: https://arxiv.org/
+      img: assets/site/文献检索/英文/arXiv.png
+      descr: 预印本论文数据库
+    4:
+      name: Google Scholar
+      link: https://scholar.google.com/
+      img: assets/site/文献检索/英文/GoogleScholar.png
+      descr: 谷歌学术，论文检索引擎
+    5:
+      name: IEEE
+      link: https://ieeexplore.ieee.org/Xplore/home.jsp
+      img: assets/site/文献检索/英文/IEEE.png
+      descr: 电气工程与计算机科学领域的专业资源
+    6:
+      name: Elsevier
+      link: https://www.sciencedirect.com/
+      img: assets/site/文献检索/英文/Elsevier.png
+      descr: 多学科文献出版商
+    7:
+      name: Scopus
+      link: https://www.scopus.com/freelookup/form/author.uri
+      img: assets/site/文献检索/英文/Scopus.png
+      descr: 学术文献和引用数据库
+    8:
+      name: Proquest
+      link: https://www.proquest.com/
+      img: assets/site/文献检索/英文/Proquest.png
+      descr: 国外学位论文检索数据库
+    9:
+      name: Research Rabbit
+      link: https://researchrabbitapp.com/home
+      img: assets/site/文献检索/英文/ResearchRabbit.png
+      descr: 整合多学术数据库的相关文献搜索工具
+    10:
+      name: Connect Papers
+      link: https://www.connectedpapers.com/
+      img: assets/site/文献检索/英文/ConnectPapers.png
+      descr: 文献引用图谱与关联文献的搜索工具
+    11:
+      name: Paper with Code
+      link: https://paperswithcode.com/
+      img: assets/site/文献检索/英文/PaperwithCode.png
+      descr: 机器学习论文与开源代码的集合平台
+
+class3:
+  class_name: 文献检索·中文
+  link_list:
+    1:
+      name: 知网
+      link: https://www.cnki.net/
+      img: assets/site/文献检索/中文/知网.png
+      descr: 中国知名的学术期刊与论文数据库
+    2:
+      name: 国家知识产权局
+      link: https://www.cnipa.gov.cn/
+      img: assets/site/文献检索/中文/国家知识产权局.png
+      descr: 知识产权信息和政策服务
+    3:
+      name: 专利之星
+      link: https://cprs.patentstar.com.cn/
+      img: assets/site/文献检索/中文/专利之星.png
+      descr: 专利信息检索和知识产权服务平台
+    4:
+      name: SooPAT
+      link: http://www.soopat.com/
+      img: assets/site/文献检索/中文/SooPAT.png
+      descr: 专利数据检索和分析工具
+    5:
+      name: 鸠摩搜书
+      link: https://www.jiumodiary.com/
+      img: assets/site/文献检索/中文/鸠摩搜书.png
+      descr: 书籍和文献资源
+
+class4:
+  class_name: 文献检索·信息
+  link_list:
+    1:
+      name: Web of Science 收录
+      link: https://mjl.clarivate.com/search-results
+      img: assets/site/文献检索/信息/WebofScience.png
+      descr: 检索某期刊的SCI收录情况
+    2:
+      name: Justscience
+      link: https://sci.justscience.cn/
+      img: assets/site/文献检索/信息/Justscience.png
+      descr: 期刊信息检索平台
+    3:
+      name: LetPub
+      link: http://www.letpub.com.cn/index.php?page=journalapp&view=search
+      img: assets/site/文献检索/信息/LetPub.png
+      descr: 学术期刊和论文投稿助手
+    4:
+      name: 小木虫
+      link: http://muchong.com/bbs/journal.php
+      img: assets/site/文献检索/信息/小木虫.png
+      descr: 学术论坛与资源共享平台
+    5:
+      name: 爱科学
+      link: https://www.iikx.com/
+      img: assets/site/文献检索/信息/爱科学.png
+      descr: 科技资讯和科研资源聚合
+    6:
+      name: 中国计算机协会
+      link: https://www.ccf.org.cn/
+      img: assets/site/文献检索/信息/中国计算机协会.png
+      descr: CCF会议等级查询
+
+class5:
+  class_name: 技术相关·开源
+  link_list:
+    1:
+      name: Github
+      link: https://github.com/
+      img: assets/site/技术相关/开源/Github.png
+      descr: 全球最大的开源代码托管平台
+    2:
+      name: Gitee
+      link: https://gitee.com/
+      img: assets/site/技术相关/开源/Gitee.png
+      descr: 中国最大的代码托管平台
+    3:
+      name: 清华大学开源镜像
+      link: https://mirrors.tuna.tsinghua.edu.cn/
+      img: assets/site/技术相关/开源/清华大学开源镜像.png
+      descr: 清华大学提供的开源软件镜像资源站
+    4:
+      name: 阿里巴巴开源镜像
+      link: https://developer.aliyun.com/mirror/
+      img: assets/site/技术相关/开源/阿里巴巴开源镜像.png
+      descr: 阿里云提供的开源软件镜像服务
+    5:
+      name: 阿里云
+      link: https://homenew.console.aliyun.com/home/scene/Operation
+      img: assets/site/技术相关/开源/阿里云.png
+      descr: 阿里巴巴旗下的云计算服务平台
+
+class6:
+  class_name: 技术相关·论坛
+  link_list:
+    1:
+      name: Stackoverflow
+      link: https://stackoverflow.com/
+      img: assets/site/技术相关/论坛/Stackoverflow.png
+      descr: 世界上最活跃的开发者问答平台
+    2:
+      name: AskUbuntu
+      link: https://askubuntu.com/
+      img: assets/site/技术相关/论坛/AskUbuntu.png
+      descr: Ubuntu操作系统的问题解答和交流平台
+    3:
+      name: CSDN
+      link: https://www.csdn.net/
+      img: assets/site/技术相关/论坛/CSDN.png
+      descr: 中国IT技术社区和技术资源分享平台
+    4:
+      name: 稀土掘金
+      link: https://juejin.cn/
+      img: assets/site/技术相关/论坛/稀土掘金.png
+      descr: IT技术社区和分享交流平台
+    5:
+      name: V2EX
+      link: https://www.v2ex.com/
+      img: assets/site/技术相关/论坛/V2EX.png
+      descr: 程序员和技术爱好者社区
+
+class7:
+  class_name: AI模型
+  link_list:
+    1:
+      name: ChatGPT
+      link: https://chat.openai.com/
+      img: assets/site/AI模型/ChatGPT.png
+      descr: OpenAI开发的多功能语言模型
+    2:
+      name: Chatgpt-Prompts
+      link: https://github.com/f/awesome-chatgpt-prompts/
+      img: assets/site/AI模型/Chatgpt-Prompts.png
+      descr: 提供ChatGPT模型使用的提示和示例
+    3:
+      name: AI Short
+      link: https://www.aishort.top/
+      img: assets/site/AI模型/AIShort.png
+      descr: ChatGPT提示词大全
+    4:
+      name: Poe
+      link: https://poe.com/ChatGPT
+      img: assets/site/AI模型/Poe.png
+      descr: 调用ChatGPT的API的对话工具
+    5:
+      name: Bard
+      link: https://bard.google.com/
+      img: assets/site/AI模型/Bard.png
+      descr: Google开发的语言模型
+    6:
+      name: ChatPDF
+      link: https://www.chatpdf.com/
+      img: assets/site/AI模型/ChatPDF.png
+      descr: 利用ChatGPT的PDF分析工具
+    7:
+      name: 文心一言
+      link: https://yiyan.baidu.com/
+      img: assets/site/AI模型/文心一言.png
+      descr: 百度开发的AI智能语言模型
+    8:
+      name: 通义千问
+      link: https://qianwen.aliyun.com/chat
+      img: assets/site/AI模型/通义千问.png
+      descr: 阿里云开发的AI大语言模型
+    9:
+      name: 讯飞星火
+      link: https://xinghuo.xfyun.cn/desk
+      img: assets/site/AI模型/讯飞星火.png
+      descr: 讯飞星火大模型应用平台
+
+class8:
+  class_name: 在线工具·工具
+  link_list:
+    1:
+      name: 程序员工具集
+      link: https://www.zxgj.cn/m/chengxuyuan
+      img: assets/site/在线工具/工具/程序员工具集.png
+      descr: 程序员常用的在线工具和资源
+    2:
+      name: 二维码生成
+      link: https://cli.im/text
+      img: assets/site/在线工具/工具/二维码生成.png
+      descr: 快速生成二维码图片
+    3:
+      name: 二维码解码
+      link: https://www.fly63.com/php/decoder/
+      img: assets/site/在线工具/工具/二维码解码.png
+      descr: 解析和识别二维码
+    4:
+      name: Convertio
+      link: https://convertio.co/
+      img: assets/site/在线工具/工具/Convertio.png
+      descr: 在线文件格式转换工具
+    5:
+      name: AnyConv
+      link: https://anyconv.com/
+      img: assets/site/在线工具/工具/AnyConv.png
+      descr: 在线文件格式转换器
+
+class9:
+  class_name: 在线工具·资源
+  link_list:
+    1:
+      name: 软件目录
+      link: https://mp.weixin.qq.com/mp/homepage?__biz=MzA4MjU4MTg2Ng==&hid=18
+      img: assets/site/在线工具/资源/软件目录.png
+      descr: 软件资源目录，下载链接与破解教程
+    2:
+      name: 吾爱破解
+      link: https://www.52pojie.cn/forum.php
+      img: assets/site/在线工具/资源/吾爱破解.png
+      descr: 软件破解、技术分享和资源交流
+    3:
+      name: FontAwesome
+      link: https://fontawesome.com/v5/search
+      img: assets/site/在线工具/资源/FontAwesome.png
+      descr: 应用最广泛的图标字体库
+    4:
+      name: 阿里巴巴icon
+      link: https://www.iconfont.cn/
+      img: assets/site/在线工具/资源/阿里巴巴icon.png
+      descr: 阿里巴巴矢量图标资源库
+    5:
+      name: RGB取色器
+      link: https://link.fobshanghai.com/rgbcolor.htm
+      img: assets/site/在线工具/资源/RGB取色器.png
+      descr: 颜色取色工具，支持RGB值和十六进制颜色代码
+    6:
+      name: 优品PPT
+      link: https://www.ypppt.com/moban/
+      img: assets/site/在线工具/资源/优品PPT.png
+      descr: PPT模板资源
+
+class10:
+  class_name: 学校网站
+  link_list:
+    1:
+      name: 哈尔滨工业大学
+      link: https://www.hit.edu.cn/
+      img: assets/site/学校网站/哈尔滨工业大学.png
+      descr: 哈工大官方网站
+    2:
+      name: 哈尔滨工业大学机电学院
+      link: http://sme.hit.edu.cn/
+      img: assets/site/学校网站/哈尔滨工业大学机电学院.png
+      descr: 哈尔滨工业大学机电工程专业学院官方网站
+    3:
+      name: 哈尔滨工业大学研究生院
+      link: http://hitgs.hit.edu.cn/
+      img: assets/site/学校网站/哈尔滨工业大学研究生院.png
+      descr: 哈尔滨工业大学研究生院官方网站
+    4:
+      name: 哈工大研究生管理系统
+      link: http://yjsgl.hit.edu.cn/
+      img: assets/site/学校网站/哈工大研究生管理系统.png
+      descr: 哈工大研究生学籍、培养管理的在线系统平台
+    5:
+      name: 哈工大邮箱
+      link: https://mail.hit.edu.cn/
+      img: assets/site/学校网站/哈工大邮箱.png
+      descr: 哈工大学生和教职工邮箱服务
+    6:
+      name: 哈工大学工平台
+      link: https://xg.hit.edu.cn/
+      img: assets/site/学校网站/哈工大学工平台.png
+      descr: 哈工大教学管理、选课和成绩查询平台
+    7:
+      name: 哈工大VPN
+      link: http://static.hit.edu.cn/vpn/
+      img: assets/site/学校网站/哈工大VPN.png
+      descr: 哈工大校外访问校内资源
+
+class11:
+  class_name: 娱乐网站
+  link_list:
+    1:
+      name: 知乎
+      link: https://www.zhihu.com/
+      img: assets/site/娱乐网站/知乎.png
+      descr: 知识分享和讨论社区
+    2:
+      name: Bilibili
+      link: https://www.bilibili.com/
+      img: assets/site/娱乐网站/Bilibili.png
+      descr: 弹幕视频平台
+    3:
+      name: 百度贴吧
+      link: https://tieba.baidu.com/
+      img: assets/site/娱乐网站/百度贴吧.png
+      descr: 聚焦兴趣话题的论坛社区
+    4:
+      name: X
+      link: https://twitter.com/
+      img: assets/site/娱乐网站/X.png
+      descr: 国际社交平台
+    5:
+      name: Youtube
+      link: https://www.youtube.com/
+      img: assets/site/娱乐网站/Youtube.png
+      descr: 全球最大的视频分享平台

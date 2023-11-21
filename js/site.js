@@ -1,20 +1,26 @@
 // site.js，根据site.yaml自动添加书签
 
-fetch('site.yaml')
-  .then(response => {
-    if (!response.ok) {
-      throw new Error('Network response was not ok');
-    }
-    return response.text();
-  })
-  .then(yamlData => {
-    const parsedData = jsyaml.load(yamlData);
-    const generatedHTML = generateHTML(parsedData);
-    document.getElementById('dynamicContent').innerHTML = generatedHTML;
-  })
-  .catch(error => {
-    console.error('There was a problem with the fetch operation:', error);
-  });
+window.onload = function() {
+  fetch('site.yaml')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      return response.text();
+    })
+    .then(yamlData => {
+      const parsedData = jsyaml.load(yamlData);
+      const generatedHTML = generateHTML(parsedData);
+      document.getElementById('dynamicContent').innerHTML = generatedHTML;
+
+      // 当页面内容加载完成后触发重新计算布局的操作
+      recalculateLayout();
+    })
+    .catch(error => {
+      console.error('There was a problem with the fetch operation:', error);
+    });
+};
+
 
 function generateHTML(data) {
   let htmlContent = '';
@@ -66,4 +72,10 @@ function generateHTML(data) {
   }
 
   return htmlContent;
+}
+
+function recalculateLayout() {
+  // 触发重新计算布局的操作
+  window.scrollTo(0, 0); // 滚动到页面顶部，尝试触发重新计算布局
+  // 或者其他你认为适合的重新布局操作
 }

@@ -1,9 +1,3 @@
-/*!
- * Theme Name:One Nav
- * Theme URI:https://www.iotheme.cn/
- * Author:iowen
- * Author URI:https://www.iowen.cn/
- */
 (function($){ 
     $(document).ready(function(){
         // 侧栏菜单初始状态设置
@@ -1290,7 +1284,7 @@ function ioConfirm(message, btnCallBack) {
 	}
 	return popup;
 }
-console.log("\n %c One Nav 导航主题 By 一为 %c https://www.iotheme.cn/ \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
+console.log("\n %c 马浩飞丨导航 %c https://www.mahaofei.com/navigation \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
 
 /**
  * Minified by jsDelivr using Terser v5.3.5.

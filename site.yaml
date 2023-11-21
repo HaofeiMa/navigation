@@ -347,6 +347,11 @@ class10:
       link: http://static.hit.edu.cn/vpn/
       img: assets/site/学校网站/哈工大VPN.png
       descr: 哈工大校外访问校内资源
+    8:
+      name: 群晖NAS
+      link: https://hitrobot1.quickconnect.cn/
+      img: assets/site/学校网站/群晖NAS.png
+      descr: 课题组公共数据与文档存储
 
 class11:
   class_name: 娱乐网站

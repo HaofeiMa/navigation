@@ -18,7 +18,7 @@ class1:
       descr: OpenAI开发的多功能语言模型
 
 class2:
-  class_name: 文献检索·英文
+  class_name: 文献检索 · 英文
   link_list:
     1:
       name: Web of Science
@@ -77,7 +77,7 @@ class2:
       descr: 机器学习论文与开源代码的集合平台
 
 class3:
-  class_name: 文献检索·中文
+  class_name: 文献检索 · 中文
   link_list:
     1:
       name: 知网
@@ -106,7 +106,7 @@ class3:
       descr: 书籍和文献资源
 
 class4:
-  class_name: 文献检索·信息
+  class_name: 文献检索 · 信息
   link_list:
     1:
       name: Web of Science 收录
@@ -140,7 +140,7 @@ class4:
       descr: CCF会议等级查询
 
 class5:
-  class_name: 技术相关·开源
+  class_name: 技术相关 · 开源
   link_list:
     1:
       name: Github
@@ -169,7 +169,7 @@ class5:
       descr: 阿里巴巴旗下的云计算服务平台
 
 class6:
-  class_name: 技术相关·论坛
+  class_name: 技术相关 · 论坛
   link_list:
     1:
       name: Stackoverflow
@@ -198,7 +198,7 @@ class6:
       descr: 程序员和技术爱好者社区
 
 class7:
-  class_name: AI模型
+  class_name: AI 模型
   link_list:
     1:
       name: ChatGPT
@@ -247,7 +247,7 @@ class7:
       descr: 讯飞星火大模型应用平台
 
 class8:
-  class_name: 在线工具·工具
+  class_name: 在线工具 · 工具
   link_list:
     1:
       name: 程序员工具集
@@ -276,7 +276,7 @@ class8:
       descr: 在线文件格式转换器
 
 class9:
-  class_name: 在线工具·资源
+  class_name: 在线工具 · 资源
   link_list:
     1:
       name: 软件目录

@@ -245,6 +245,11 @@ class7:
       link: https://xinghuo.xfyun.cn/desk
       img: assets/site/AI模型/讯飞星火.png
       descr: 讯飞星火大模型应用平台
+    10:
+      name: MyChatGPT
+      link: https://chatgpt.mahaofei.com/
+      img: assets/site/AI模型/MyChatGPT.png
+      descr: 个人搭建的ChatGPT，访问密码请联系博主
 
 class8:
   class_name: 在线工具 · 工具

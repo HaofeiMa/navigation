@@ -1284,7 +1284,7 @@ function ioConfirm(message, btnCallBack) {
 	}
 	return popup;
 }
-console.log("\n %c 马浩飞丨导航 %c https://www.mahaofei.com/navigation \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
+console.log("\n %c 马浩飞丨导航 %c https://www.mahaofei.com/navigation \n", "color: #ffffff; background: #000066; padding:5px 0;", "color: #ffffff; background: #ffaaaa; padding:5px 0;");
 
 /**
  * Minified by jsDelivr using Terser v5.3.5.

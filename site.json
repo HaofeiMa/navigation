@@ -373,12 +373,18 @@
                 "descr": "阿里巴巴矢量图标资源库"
             },
             "5": {
+                "name": "Emojipedia",
+                "link": "https://emojipedia.org/",
+                "img": "assets/site/在线工具/资源/Emojipedia.png",
+                "descr": "Emoji表情大全与检索"
+            },
+            "6": {
                 "name": "RGB取色器",
                 "link": "https://link.fobshanghai.com/rgbcolor.htm",
                 "img": "assets/site/在线工具/资源/RGB取色器.png",
                 "descr": "颜色取色工具，支持RGB值和十六进制颜色代码"
             },
-            "6": {
+            "7": {
                 "name": "优品PPT",
                 "link": "https://www.ypppt.com/moban/",
                 "img": "assets/site/在线工具/资源/优品PPT.png",

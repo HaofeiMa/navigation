@@ -19,6 +19,12 @@
                 "link": "https://chat.openai.com/",
                 "img": "assets/site/常用网站/ChatGPT.png",
                 "descr": "OpenAI开发的多功能语言模型"
+            },
+            "4": {
+                "name": "Github",
+                "link": "https://github.com/",
+                "img": "assets/site/技术相关/开源/Github.png",
+                "descr": "全球最大的开源代码托管平台"
             }
         }
     },

@@ -261,7 +261,7 @@
                 "descr": "OpenAI开发的多功能语言模型"
             },
             "2": {
-                "name": "Chatgpt-Prompts",
+                "name": "Awesome-chatgpt-prompts",
                 "link": "https://github.com/f/awesome-chatgpt-prompts/",
                 "img": "assets/site/AI模型/Chatgpt-Prompts.png",
                 "descr": "提供ChatGPT模型使用的提示和示例"

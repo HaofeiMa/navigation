@@ -1,4 +1,4 @@
-class1:
+class11:
   class_name: 常用
   link_list:
     1:
@@ -17,7 +17,7 @@ class1:
       img: assets/site/常用网站/ChatGPT.png
       descr: OpenAI开发的多功能语言模型
 
-class2:
+class21:
   class_name: 文献检索 · 英文
   link_list:
     1:
@@ -76,7 +76,7 @@ class2:
       img: assets/site/文献检索/英文/PaperwithCode.png
       descr: 机器学习论文与开源代码的集合平台
 
-class3:
+class22:
   class_name: 文献检索 · 中文
   link_list:
     1:
@@ -105,7 +105,7 @@ class3:
       img: assets/site/文献检索/中文/鸠摩搜书.png
       descr: 书籍和文献资源
 
-class4:
+class23:
   class_name: 文献检索 · 信息
   link_list:
     1:
@@ -139,7 +139,7 @@ class4:
       img: assets/site/文献检索/信息/中国计算机协会.png
       descr: CCF会议等级查询
 
-class5:
+class31:
   class_name: 技术相关 · 开源
   link_list:
     1:
@@ -172,7 +172,7 @@ class5:
       link: https://vercel.com/
       img: assets/site/技术相关/开源/Vercel.png
       descr: 最好用的网站托管服务平台
-class6:
+class32:
   class_name: 技术相关 · 论坛
   link_list:
     1:
@@ -201,7 +201,7 @@ class6:
       img: assets/site/技术相关/论坛/V2EX.png
       descr: 程序员和技术爱好者社区
 
-class7:
+class41:
   class_name: AI 模型
   link_list:
     1:
@@ -255,7 +255,7 @@ class7:
       img: assets/site/AI模型/MyChatGPT.png
       descr: 个人搭建的ChatGPT，访问密码请联系博主
 
-class8:
+class51:
   class_name: 在线工具 · 工具
   link_list:
     1:
@@ -284,7 +284,7 @@ class8:
       img: assets/site/在线工具/工具/AnyConv.png
       descr: 在线文件格式转换器
 
-class9:
+class52:
   class_name: 在线工具 · 资源
   link_list:
     1:
@@ -318,7 +318,7 @@ class9:
       img: assets/site/在线工具/资源/优品PPT.png
       descr: PPT模板资源
 
-class10:
+class61:
   class_name: 学校网站
   link_list:
     1:
@@ -362,7 +362,7 @@ class10:
       img: assets/site/学校网站/群晖NAS.png
       descr: 课题组公共数据与文档存储
 
-class11:
+class71:
   class_name: 娱乐网站
   link_list:
     1:

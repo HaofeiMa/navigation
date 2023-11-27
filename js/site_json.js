@@ -25,7 +25,7 @@ function generateHTML(data) {
     htmlContent += `
       <div class="d-flex flex-fill ">
         <h4 class="text-gray text-lg mb-4">
-          <i class="site-tag iconfont icon-tag icon-lg mr-1" id="term-${key.slice(-1)}"></i>
+          <i class="site-tag iconfont icon-tag icon-lg mr-1" id="term-${key.slice(-2)}"></i>
           ${classTitle}
         </h4>
         <div class="flex-fill"></div>

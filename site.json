@@ -279,10 +279,10 @@
                 "descr": "调用ChatGPT的API的对话工具"
             },
             "5": {
-                "name": "Bard",
+                "name": "Gemini",
                 "link": "https://bard.google.com/",
-                "img": "assets/site/AI模型/Bard.png",
-                "descr": "Google开发的语言模型"
+                "img": "assets/site/AI模型/Gemini.png",
+                "descr": "Google开发的多模态模型"
             },
             "6": {
                 "name": "ChatPDF",

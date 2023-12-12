@@ -141,37 +141,43 @@
                 "name": "Web of Science 收录",
                 "link": "https://mjl.clarivate.com/search-results",
                 "img": "assets/site/文献检索/信息/WebofScience.png",
-                "descr": "检索某期刊的SCI收录情况"
+                "descr": "检索期刊SCI收录与JCR分区"
             },
             "2": {
+                "name": "中国科学院期刊分区表",
+                "link": "https://advanced.fenqubiao.com/",
+                "img": "assets/site/文献检索/信息/中国科学院期刊分区表.png",
+                "descr": "检索期刊中科院分区"
+            },
+            "3": {
+                "name": "中国计算机协会",
+                "link": "https://www.ccf.org.cn/",
+                "img": "assets/site/文献检索/信息/中国计算机协会.png",
+                "descr": "检索CCF会议等级"
+            },
+            "4": {
                 "name": "Justscience",
                 "link": "https://sci.justscience.cn/",
                 "img": "assets/site/文献检索/信息/Justscience.png",
                 "descr": "期刊信息检索平台"
             },
-            "3": {
+            "5": {
                 "name": "LetPub",
                 "link": "http://www.letpub.com.cn/index.php?page=journalapp&view=search",
                 "img": "assets/site/文献检索/信息/LetPub.png",
                 "descr": "学术期刊和论文投稿助手"
             },
-            "4": {
+            "6": {
                 "name": "小木虫",
                 "link": "http://muchong.com/bbs/journal.php",
                 "img": "assets/site/文献检索/信息/小木虫.png",
                 "descr": "学术论坛与资源共享平台"
             },
-            "5": {
+            "7": {
                 "name": "爱科学",
                 "link": "https://www.iikx.com/",
                 "img": "assets/site/文献检索/信息/爱科学.png",
                 "descr": "科技资讯和科研资源聚合"
-            },
-            "6": {
-                "name": "中国计算机协会",
-                "link": "https://www.ccf.org.cn/",
-                "img": "assets/site/文献检索/信息/中国计算机协会.png",
-                "descr": "CCF会议等级查询"
             }
         }
     },

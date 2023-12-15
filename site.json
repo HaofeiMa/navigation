@@ -319,6 +319,12 @@
                 "link": "https://chatgpt.mahaofei.com/",
                 "img": "assets/site/AI模型/MyChatGPT.png",
                 "descr": "个人搭建的ChatGPT，访问密码请联系博主"
+            },
+            "11": {
+                "name": "Pandora",
+                "link": "https://chat-shared3.zhile.io/",
+                "img": "assets/site/AI模型/Pandora.png",
+                "descr": "国内代理GPT网页"
             }
         }
     },
